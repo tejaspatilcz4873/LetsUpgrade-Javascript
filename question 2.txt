@@ -1,0 +1,36 @@
+                         ASSIGNMENT 1
+ 
+Q2) DIFFERENCE BETWEEN VAR, LET ,CONST.
+
+* VAR- 1)var is a functioned scope when it is declared outside function 
+     2) var will be declared anywhere in the block 
+
+eg  var name = " hello" 
+
+    function newfunction(){
+      var hello = "hello";
+    }    
+
+* Let -1) anything in the curly bracket is block and let is local varible.
+       2) let is only work in a particular scope 
+
+eg  function node simplified(){4
+    let a=10;
+    console.log(a);//output 10
+    if(true){
+    let a=20;
+    console.log(a);//output 20
+    }
+    console.log(a);//output 10
+    }  
+
+* const - 1) const statement values can be assined once and they cannot be reassined 
+    
+eg  function nodesimplified(){
+    const MY-VARIABLE =10;
+    console.log(MY-VARIABLE);//output 10
+    }  
+
+
+
+

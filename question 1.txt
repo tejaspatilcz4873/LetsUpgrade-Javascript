@@ -1,0 +1,26 @@
+                                     ASSIGNMENT 1
+
+QUESTION 1 EXPLAIN THE VARIOUS METHODS IN CONSOLE FUNCTION
+
+1) console.assert()- log a message & stack trace to console if the first aegument is false.
+
+2) console.clear()- clear the console
+
+3) console.count()- log the no of times this line has been called with the given label.
+
+4) console.error()-  outputs an error message .you may use string substitution and additional arguments with this method.
+
+5) console .group()- cerate a new inline group . indenting all following output by anotherlevel.To move  back out a level.
+
+6) console.info()- informative logging of information .you may use string substitution and additional arguments with this method.
+
+7) console.log() -for general output of logging information you msy use string substitution and additionl arguments with this method.
+
+8) console.time() - starts timer with a name specified as an input parameter up to 10,000simultaneous timers run on agiven page.
+
+9) console.table()- displays tabular data as a table.
+
+10) comsole.warn() - outputs  warning message you may use string substtution and arguments with this method.
+
+
+

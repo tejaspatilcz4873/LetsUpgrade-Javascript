@@ -1,0 +1,27 @@
+                               ASSIGNMENT 1
+
+QUESTION 3 INTRO ON AVAILABLE DATATYPES IN JAVASCRIPT
+
+1) SYMBOL- A symbol is unique and immutable primitive value and may be used as the key of an object
+           property . In some progemiing lang symbol are called atoms.
+
+2) OBJECT- In computer science , an object is a value in memory is possibly referenced by an identifier.
+
+3) STRING TYPE- In jvascript string type is used to represnt textual data . It is a set of elements of 16 bits unsigned integer value . 
+                Each element in string  occupies  a position in the string .the first element is at index 0 the next at index 1
+                The length ofa string is the of elements in it.javascript string are immutable this means that once a string is 
+                created , it is not possible to modify it.
+
+4) BigInt TYPE- The BigInt type is numeric primitive in js that can represnt integers with arbitary precision .with BigInt you can 
+                safely store and operate on large integers even beyond the safe integer limit for no.
+                A BigInt is created by appending n to the end of an integer or by calling the constructor.
+
+5) Number type - The number type is double precision 64 bit binary format IEEE value In addition to represnting 
+                 floating point no ,the number type has three symbolic  values 
+                 1 + Infinity 2 -Infinity 3 NaN
+
+6) BOOLEAN TYPE - Boolean represents  logical entity and can have two values that is true and false.
+
+7) NULL TYPE- the null type is exactly one value null .
+
+8) UNDEFINED TYPE -A variable that has not been assined a value has the value undefined .
